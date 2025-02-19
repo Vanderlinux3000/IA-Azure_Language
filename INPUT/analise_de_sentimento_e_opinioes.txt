@@ -1,0 +1,3 @@
+Analise de sentimento e opiniões
+
+Este recurso de API da AI Azure estamos em um era em que os avanços tecnológicos na minha concepção tem me mostrado o quanto podemos aprender com isso. Esse recurso de fornecimento de rótulos de sentimentos, positivo, neutro e negativo com pontuações, elevando o nível de confiança após a análise da frase e do documento. Após o envio da solicitação do texto o sentiment Analysis fornece a informação granular sobre as opiniões relacionadas às palavras como atributos do produto (texto) fornecido e ou serviços no texto.
